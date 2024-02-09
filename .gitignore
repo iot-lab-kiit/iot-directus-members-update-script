@@ -1,0 +1,6 @@
+*.ods
+*.xlsx
+__pycache__/**
+*.idea
+*.xml
+**.pyc
